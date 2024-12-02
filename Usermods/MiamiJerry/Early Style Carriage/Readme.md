@@ -6,3 +6,4 @@ Made a number of changes to the original Carriage ( Uses pins to secure the belt
 * Pins that limit the sliders, are replaced by M3x40 screws, so the sliders can be replaced without removing or disassembling the Carriage.
 * Jack screw holes added to Carriage, so the springs can be fully depress when adjusting / tightning the toolbody connectors to the V2ool body.
 * ![Carriage_w_CutAway_Supports](https://github.com/user-attachments/assets/f7906230-d7db-4e03-b374-10ca3369e383)
+![23mm Toolbody Connector 693ZZ](https://github.com/user-attachments/assets/d70bb094-33b3-4994-a87b-845bf0d37ce3)
