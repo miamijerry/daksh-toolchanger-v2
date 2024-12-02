@@ -1,4 +1,4 @@
-Made a number of changes to the original Carriage ( Useds pins to secure the belts)
+Made a number of changes to the original Carriage ( Uses pins to secure the belts)
 * Carriage warps when printed, added cut-away supports to maintain dimensions after the carriage cools.
 * Interference between carriage and Toolbody connectors (aka MGN12's), added 1.5mm deep pockets to carriage.
 * Carriage in Fusion measures 102.7mm tall and V2ool toolbody center section measures 104mm, Scaled carriage to 101% for printed dimension of 103.9
