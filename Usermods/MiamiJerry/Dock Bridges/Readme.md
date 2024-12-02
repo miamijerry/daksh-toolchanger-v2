@@ -2,7 +2,7 @@ These are my files to add a bridge across the backside of the docks.
 * Purpose is to make the docks very rigid.
 * Provides cable magement for the USB cables, Power Wires and PTFE tubes.
 #
-DETAILS;
+Dimension on a Trident 350 frame;
 * 74.4mm spacing between docks for 5 V2ools Toolbodies.
 * 86.6mm between mating faces of docks.
 * 12.2mm thickness of the docks.
