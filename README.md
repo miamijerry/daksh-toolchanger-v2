@@ -2,6 +2,7 @@
 * This fork has files I used to build my Daksh Tool Changer.
 * Frame is a Trident Easybake 350 cubed.
 * I am using my own remix of Funday's V2ool Toolbody's.
+* Pictures of my mods are in the Readme.md's of each MiamiJerry individual Usermod Folder.
 #
 DAKSH V2 3D Printed Tool Changer is a fully 3D printed mechanical tool changer compatible with different CoreXY platforms like the Voron Trident, 1.8, 2.4  and RatRig VCore 3. The servo less mechanical locking mechanism is inspired by the Prusa XL - but is fully 3d printed with metal inserts in the critical areas for rigidity and reliability.
 
